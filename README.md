@@ -28,6 +28,6 @@ Please note that this *does not cover* the usage of the "osu!" or "ppy" branding
 Also a word of caution that there may be exceptions to this license for specific resources included in this repository. The primary purpose of publicising this source code is for educational purposes; if you plan on using it in another way I ask that you contact me [via email](mailto:pe@ppy.sh) or [open an issue](https://github.com/ppy/osu-stream/issues) first!
 
 
-##Credit
+## Credit
 
 Originally by ppy, built by me.
